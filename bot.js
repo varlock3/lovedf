@@ -10,8 +10,7 @@ console.log("BOT هههه.");
   return channel.send(`**السلام عليكم
 -أحادثينا حقيقية وتواجدنا دائم حتى وأن ضاقت بك الأوقات
 ‏سيرفر Power دائم التواجد لذلك أقترب ولا تزيد أضعاف المسافة**. ♥
-https://discord.gg/yReJq2T
-[ ${member}  ]
+https://discord.gg/cNj9QvN[ ${member}  ]
 `)
 }).catch(console.error)
 })
@@ -21,8 +20,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(`**السلام عليكم
 -أحادثينا حقيقية وتواجدنا دائم حتى وأن ضاقت بك الأوقات
 ‏سيرفر Power دائم التواجد لذلك أقترب ولا تزيد أضعاف المسافة**. ♥
-https://discord.gg/yReJq2T
-[ ${member}  ]
+https://discord.gg/cNj9QvN[ ${member}  ]
 `)
 }).catch(console.error)
 })
